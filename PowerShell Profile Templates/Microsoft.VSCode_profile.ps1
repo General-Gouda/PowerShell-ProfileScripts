@@ -3,7 +3,7 @@ $Global:ODPersonalLocation = "C:\Users\username\OneDrive\Computer_Stuff\PowerShe
 
 $Global:transcriptLocation = "$ODPersonalLocation\Transcripts\VSCode"
 
-# Password and Thumbprint for new HP ZBook
+# Password and Thumbprint
 $Global:encryptedProdPassword = ''
 $Global:encryptedProdKey = ''
 

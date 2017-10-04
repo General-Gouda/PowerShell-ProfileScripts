@@ -59,7 +59,7 @@ Import-Module ADSync;Start-ADSyncSyncCycle
 
 	$time = Get-Date 
 		
-	$server = "DOMAIN500.TESTDOMAIN.local"
+	$server = "DOMAINAPP500.TESTDOMAIN.local"
 
     $UserCredential = Get-DecryptedPassword -EncryptedPassword $encryptedTestPassword -EncryptedKey $encryptedTestKey -Thumbprint $thumbPrint -AdminUsername 'TESTDOMAIN\username'
     

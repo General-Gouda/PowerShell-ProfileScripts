@@ -64,7 +64,7 @@ Function New-ComplexPassword {
     }
 } # End of Function
 
-function New-DOMAINRandomPassword
+function New-RandomPasswordFromWordList
 {
     [CmdletBinding()]
     param
