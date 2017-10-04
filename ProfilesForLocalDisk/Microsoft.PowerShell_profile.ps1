@@ -1,0 +1,1 @@
+& 'C:\Users\username\OneDrive\Computer_Stuff\PowerShell\PowerShell Profile Templates\Microsoft.PowerShell_profile.ps1'
